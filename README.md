@@ -22,9 +22,9 @@ Cleaning: converted dates from M/D/YYYY text to real dates (checked against a kn
 
 ## Dashboard
 
-![Dashboard (images/dashboard_overview.png)
+![Dashboard overview](superstore%20sales/images/dashboard_overview.png)
 
-![Revenue by month and year](images/seasonality_by_year.png)
+![Revenue by month and year](superstore%20sales/images/seasonality_by_year.png)
 
 ## Findings
 
@@ -57,7 +57,7 @@ ETS beat the baseline for total sales, Furniture and Office Supplies, but not fo
 
 **Jan to Mar 2018 total sales forecast:** 43,482 (Jan), 42,568 (Feb), 70,679 (Mar), about 156,729 for the quarter. 95% ranges: [fill from the `Forecast_2018` sheet in `superstore_forecast.xlsx`].
 
-![Forecast chart](images/forecast_chart.png)
+![Forecast chart](superstore%20sales/images/forecast_chart.png)
 
 ## Recommendations
 
